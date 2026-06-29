@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3g0034/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3g0034/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉照定真經
+  date: '2015-08-24 23:12:44.706462'
+  source:
+    repository: kanripo
+    path: KR3g0034
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3g0034_000-WYG.yaml, hash: 'sha256:0025b71fc747810f9739bf23dd29743c646c0fdc8501693b55f5ef2f81b6a462'}
+  - {seq: 1, filename: KR3g0034_001-WYG.yaml, hash: 'sha256:8f1105dbbb4269c71db7ef081ebccd4ab3efb978698f9710681dd7f2c8ec48ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3g0034_000-WYG.markers.yaml, hash: 'sha256:939abfa1c6cf7b887591312f287650bb040b13517cd9de50b45765efcd820ab7'}
+  - {seq: 1, role: markers, filename: assets/KR3g0034_001-WYG.markers.yaml, hash: 'sha256:0ecff134f9e397a5439b1bf40ca68a919717575cefb0aced4c2e20bd79f59c6c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3g0034_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 324
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3g0034_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 15009
+  label: 玉照定真經
+  type: section
+  level: 1
+hash: sha256:c1a7be0b180b3c1bacede84bc0e3eab09d0ea26b99abd03d95976917ea85ae55
