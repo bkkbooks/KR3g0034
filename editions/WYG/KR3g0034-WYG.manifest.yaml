@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3g0034_000-WYG.yaml, hash: 'sha256:0025b71fc747810f9739bf23dd29743c646c0fdc8501693b55f5ef2f81b6a462'}
   - {seq: 1, filename: KR3g0034_001-WYG.yaml, hash: 'sha256:8f1105dbbb4269c71db7ef081ebccd4ab3efb978698f9710681dd7f2c8ec48ba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3g0034_000-WYG.markers.yaml, hash: 'sha256:939abfa1c6cf7b887591312f287650bb040b13517cd9de50b45765efcd820ab7'}
-  - {seq: 1, role: markers, filename: assets/KR3g0034_001-WYG.markers.yaml, hash: 'sha256:0ecff134f9e397a5439b1bf40ca68a919717575cefb0aced4c2e20bd79f59c6c'}
+  - {seq: 0, role: markers, filename: assets/KR3g0034_000-WYG.markers.yaml, hash: 'sha256:3d2ed8420c98b672e1ee9aa1183b1e6227589f4ec34ec882dd2fcd8904beab28'}
+  - {seq: 1, role: markers, filename: assets/KR3g0034_001-WYG.markers.yaml, hash: 'sha256:7d58063cb1e3516d4cbfa5d1945772f6315d6ab5e6a769cf1b8cb8b942de60c7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 玉照定真經
   type: section
   level: 1
-hash: sha256:c1a7be0b180b3c1bacede84bc0e3eab09d0ea26b99abd03d95976917ea85ae55
+hash: sha256:9c265aa0ba08ed04887aed344718af8df1f1beac6f65b7e043c51be89e5264e6

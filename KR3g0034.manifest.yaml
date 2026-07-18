@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3g0034_000.yaml, hash: 'sha256:d6a18fc2d29a7e96e84b364598911961dbbb3167ea8a04ec91b1ce5a6dc702cf'}
   - {seq: 1, filename: KR3g0034_001.yaml, hash: 'sha256:df6ed5caaa388a020b9334c4fb3f4e3d1fe746127eff01cde7017f2024230492'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3g0034_000.markers.yaml, hash: 'sha256:4102fe8ffb9849e802b31ebcf937d268259d9cf92f3d10d4c895c6e2d7524413'}
-  - {seq: 1, role: markers, filename: assets/KR3g0034_001.markers.yaml, hash: 'sha256:7ecb44c47915408fde6ba0ab998b67a8e6ebb8821d445b58aaa31b5ff36eea45'}
+  - {seq: 0, role: markers, filename: assets/KR3g0034_000.markers.yaml, hash: 'sha256:11c633ec16a49a582b7fe75a18bf39e117d0e9a203262eef227f30eb447fd7e4'}
+  - {seq: 1, role: markers, filename: assets/KR3g0034_001.markers.yaml, hash: 'sha256:22c59e5ea28cf6615b63896b99561609f6869f52d0f971ac86ba2b3a60bcbd41'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 玉照定真經
   type: section
   level: 1
-hash: sha256:9893cfbe219ec0238dbd3f7daca1444ab56412c43eb6c6d4d7e393359501ca00
+hash: sha256:ff2c05c44c73ba24bd0d72225040bf4517bb12a65f52f158695c523b947c87c4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
